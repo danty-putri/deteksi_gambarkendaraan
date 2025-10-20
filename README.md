@@ -1,4 +1,4 @@
-# 🚗 YOLOv9 Vehicle Detection and Counting (Batch Version)
+# 🚗 YOLOv9 Vehicle Detection and Counting
 
 ![Deteksi Kendaraan](https://github.com/danty-putri/deteksi_gambarkendaraan/blob/main/detected_foto_0031.jpg)
 
