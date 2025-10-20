@@ -1,5 +1,7 @@
 # 🚗 YOLOv9 Vehicle Detection and Counting (Batch Version)
 
+![Deteksi Kendaraan](https://github.com/danty-putri/deteksi_gambarkendaraan/blob/main/detected_foto_0031.jpg)
+
 Proyek ini menggunakan **YOLOv9** untuk mendeteksi dan menghitung jumlah kendaraan (*mobil* dan *motor*) dari **banyak gambar secara otomatis**.
 Setiap gambar akan diproses, diberi *bounding box*, label, confidence score, serta jumlah kendaraan yang terdeteksi.
 Hasil deteksi kemudian disimpan ke folder output.
