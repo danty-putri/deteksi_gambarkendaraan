@@ -101,4 +101,5 @@ Proyek ini dapat digunakan untuk:
 ---
 
 **Author:** Putri Danty Apriani
+
 **Model:** YOLOv9 (Custom-trained for car and motorcycle detection)
